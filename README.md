@@ -1,3 +1,3 @@
 # SagemakerSnowflakeConnectivity
 
-This repo provides access to Jupyter Notebooks that show how to connect Sagemaker to Snowflake via Jupyter Notebooks using different Kernels.
+This repo provides access to Jupyter Notebooks showing how to connect [Sagemaker](https://aws.amazon.com/sagemaker/) to [Snowflake](https://www.snowflake.net/).
